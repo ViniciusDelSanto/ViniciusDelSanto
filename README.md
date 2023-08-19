@@ -1,10 +1,12 @@
 
-# 💫 Olá, me chamo Vinicius Del Santo:
+# 💫 Olá, me chamo Vinicius Del Santo!
 **👨‍💻 Sou estudante de Engenharia de Software!<br>💻 Trabalho atualmente como Desenvolvedor Full Stack!<br>🥇 Campeão do Hackathon DMStificando 2023.1!<br><br>**
 
 
 ## 🌐 Entre em Contato:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DelSantx#2994) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/delsantx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinícius-del-santo-0b6989219) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DelSantx#2994) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/delsantx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinícius-del-santo-0b6989219) 
 
 # 💻 Trabalho/trabalhei com:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
